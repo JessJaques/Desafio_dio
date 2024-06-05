@@ -36,7 +36,7 @@
 #### At the end, display a message:
 #### "The Hero named **{name}** is at **{level}**"
 
-
+---
 
 <hr>
 
